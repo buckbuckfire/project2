@@ -1,2 +1,2 @@
-# project2
-project2
+# same-song-different-party
+Karaoke App
